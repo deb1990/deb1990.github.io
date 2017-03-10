@@ -1,1 +1,16 @@
 /* your styles go here */
+#contact .fa-facebook-official {
+    color: #4267b2;
+}
+
+#contact .fa-youtube {
+    color: #cc181e;
+}
+
+#contact .fa-instagram {
+    color: #003569;
+}
+
+#contact .fa-flickr {
+    color: rgba(21,21,23,.95);
+}
